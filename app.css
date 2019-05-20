@@ -1,0 +1,13 @@
+img{
+    width: 800px;
+}
+div{
+    border: 1px solid black;
+    margin-bottom: 20px;
+    width: 1000px;
+    border-radius: 20px
+    
+}
+h1{
+    color: blue;
+}
